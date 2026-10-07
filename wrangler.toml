@@ -1,0 +1,8 @@
+name="dentica-v15-api"
+main="src/index.js"
+compatibility_date="2026-10-07"
+
+[[d1_databases]]
+binding="DB"
+database_name="dentica-db"
+database_id="e059623a-4834-41e8-86c8-4a6a653d03ba"

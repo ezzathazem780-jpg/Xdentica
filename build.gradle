@@ -1,0 +1,4 @@
+plugins{id 'com.android.application'}
+android{namespace 'com.dentica.v15';compileSdk 35
+defaultConfig{applicationId 'com.dentica.v15';minSdk 23;targetSdk 35;versionCode 15;versionName '15.0';buildConfigField 'String','API_BASE_URL','"https://YOUR_DENTICA_WORKER.workers.dev"'}
+buildFeatures{buildConfig true}}
