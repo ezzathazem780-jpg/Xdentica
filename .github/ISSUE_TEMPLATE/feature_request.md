@@ -1,0 +1,5 @@
+DENTICA1/
+├── worker/
+├── android/
+├── .github/
+└── README.md
